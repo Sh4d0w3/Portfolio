@@ -25,13 +25,13 @@
 }
 
 :root {
-    --primary-color: #1100ff;
-    --secondary-color: #ff006e;
+    --primary-color: #00d9ff;
+    --secondary-color: #ff00dd;
     --accent-color: #8338ec;
     --dark-bg: #0a0e27;
     --darker-bg: #050813;
-    --text-light: #f0f0f0c9;
-    --text-muted: #b0b0b0;
+    --text-light: #00ffffb4;
+    --text-muted: #00b7ff8c;
     --border-color: #1a1f3a;
     --shadow: 0 10px 30px rgba(0, 212, 255, 0.1);
 }
